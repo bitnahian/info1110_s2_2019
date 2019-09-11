@@ -1,0 +1,2 @@
+Hello WorldThis line is the second line but with a new line character
+See the difference above
